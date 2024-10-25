@@ -1,4 +1,5 @@
-# Database [![update](https://github.com/iptv-org/database/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/database/actions/workflows/update.yml)
+#EXTM3U
+#EXTINF:-1 tvg-id="Sports1.sports.1" tvg-logo="https://playlist.iptvforums.xyz/logo/XdDdqK4f43.png" group-title="Sports",Sports 1 (576p)
 
 User editable database for TV channels.
 
